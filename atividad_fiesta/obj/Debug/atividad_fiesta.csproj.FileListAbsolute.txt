@@ -1,0 +1,3 @@
+C:\Users\HOLA\Desktop\programacion\atividad_fiesta\atividad_fiesta\obj\Debug\atividad_fiesta.csproj.AssemblyReference.cache
+C:\Users\HOLA\Desktop\programacion\atividad_fiesta\atividad_fiesta\obj\Debug\atividad_fiesta.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOLA\Desktop\programacion\atividad_fiesta\atividad_fiesta\obj\Debug\atividad_fiesta.csproj.CoreCompileInputs.cache
